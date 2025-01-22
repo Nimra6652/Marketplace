@@ -30,10 +30,7 @@ export default function Navbar() {
   return (
     <nav className="bg-black text-white p-4 w-full">
       <div className="flex items-center justify-between px-4 md:px-[135px]">
-        {/* Logo */}
-        <div className="text-2xl font-bold">
-          <span className="text-orange-500">Food</span>tuck
-        </div>
+        
 
         {/* Mobile Navigation (Sheet) */}
         <div className="lg:hidden flex justify-between items-center gap-2">
